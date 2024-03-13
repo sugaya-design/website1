@@ -132,7 +132,7 @@ About
 }
 
 #about .text{
-	text-align: center;
+	text-align: left;
 }
 
 
@@ -182,6 +182,10 @@ SP
 
 	#about img {
 	margin-right: 0;
+	}
+
+	#about .text{
+	text-align: center;
 	}
 	
 	/*------------------------------------------------------
